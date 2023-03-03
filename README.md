@@ -75,7 +75,7 @@ With this you will have all the data you need to experiment with the app.
 To run the server, execute:
 
 ```bash
-export FLASK_APP=main.py
+export FLASK_APP=app.py
 flask run --reload
 ```
 
