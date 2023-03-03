@@ -1,3 +1,6 @@
+## THIS PROJECT WAS DONE 2 YEARS AGO AS A GRADUATION PROJECT WITH MY TEAMMATE @ibrahimalsaif 
+https://github.com/ibrahimalsaif/ENHANCE-AUTOMATION-OF-THE-ACADEMIC-TIMETABLE-QASSIM-UNIVERSITY
+
 # ENHANCE AUTOMATION OF THE ACADEMIC TIMETABLE
 
 The timetable is one of the essential things in any educational institute. Because if the timetable was made perfectly it will help everyone either it’s a student, instructor, and an administration member in having a good semester free of failure.
